@@ -1,5 +1,5 @@
 
-package com.liquid.wallpapers;
+package com.deviant.wallpapers;
 
 import android.content.Context;
 import android.util.Log;

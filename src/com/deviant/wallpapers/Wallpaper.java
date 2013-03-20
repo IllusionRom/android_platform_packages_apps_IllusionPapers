@@ -1,5 +1,5 @@
 
-package com.liquid.wallpapers;
+package com.deviant.wallpapers;
 
 public class Wallpaper {
 

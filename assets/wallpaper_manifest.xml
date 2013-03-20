@@ -17,76 +17,10 @@
     <category name="Branded Papers" >
 
         <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid1.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid1.png"
-            name="Liquid1" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid2.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid2.png"
-            name="Liquid2" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid3.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid3.png"
-            name="Liquid3" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
-            name="Liquid4" />
-
-        <wallpaper
             author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-Flow.png"
-            url="http://android.markjohnston.us/DL/LWP/Wally-Flow.png"
-            name="Flow" />
-
-        <wallpaper
-            author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.png"
-            url="http://android.markjohnston.us/DL/LWP/Wally-GreenLiquid.png"
-            name="GreenLiquid" />
-
-        <wallpaper
-            author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-BlueLiquid.png"
-            url="http://android.markjohnston.us/DL/LWP/Wally-BlueLiquid.png"
-            name="BlueLiquid" />
-
-        <wallpaper
-            author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-CandyGray.png"
-            url="http://android.markjohnston.us/DL/LWP/Wally-CandyGray.png"
-            name="CandyGray" />
-
-        <wallpaper
-            author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-CandyWhite.png"
-            url="http://android.markjohnston.us/DL/LWP/Wally-CandyWhite.png"
-            name="CandyWhite" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
-            name="LiquidDNA" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
-            name="LiquidLights" />
-
-        <wallpaper
-            author="Wally"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Wally-LiquidGlass.jpeg"
-            url="http://android.markjohnston.us/DL/LWP/Wally-LiquidGlass.jpeg"
-            name="LiquidGlass" />
+            thumbUrl="https://www.dropbox.com/s/bfx6gqjcdl4qltk/Wally-DX.jpg"
+            url="https://www.dropbox.com/s/bfx6gqjcdl4qltk/Wally-DX.jpg"
+            name="DX" />
     </category>
 
     <category name="More Papers" >
@@ -96,24 +30,6 @@
             thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
             url="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
             name="Wave1" />
-
-        <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave2.png"
-            name="Wave2" />
-
-        <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave3.png"
-            name="Wave3" />
-
-        <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave4.png"
-            name="Wave4" />
     </category>
 
 </wallpapers>
