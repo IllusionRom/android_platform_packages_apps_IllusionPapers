@@ -14,13 +14,27 @@
         name="<wallpaper name">
     -->
 
-    <category name="Branded Papers" >
+    <category name="DX Papers" >
 
         <wallpaper
             author="Wally"
-            thumbUrl="http://imageshack.us/a/img507/5092/wallydx.jpg"
-            url="http://imageshack.us/a/img507/5092/wallydx.jpg"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DX_zps0a59acb8.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DX_zps0a59acb8.jpg"
             name="DX" />
+    </category>
+
+        <wallpaper
+            author="Wally"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DXBulbs_zps60c59867.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DXBulbs_zps60c59867.jpg"
+            name="Bulbs" />
+    </category>
+
+        <wallpaper
+            author="Wally"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DXGlass_zps13ce0f89.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DXGlass_zps13ce0f89.jpg"
+            name="Glass" />
     </category>
 
     <category name="More Papers" >
