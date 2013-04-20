@@ -13,8 +13,7 @@
         date="<date added>" may be used for filtering later
         name="<wallpaper name">
     -->
-
-    <category name="DX Papers" >
+    <category name="Wally" >
 
         <wallpaper
             author="Wally"
@@ -39,60 +38,6 @@
             thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-dxyellow_zps9bcaf86a.jpg"
             url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-dxyellow_zps9bcaf86a.jpg"
             name="dx-yellow" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1-Blue_zps83d18fab.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1-Blue_zps83d18fab.jpg"
-            name="DeviantX1-Blue" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1_zpsafa5d810.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1_zpsafa5d810.jpg"
-            name="DeviantX1-Red" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScript_zps65fe9d6e.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScript_zps65fe9d6e.jpg"
-            name="DeviantScript" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptWhite_zpsc0ad6a65.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptWhite_zpsc0ad6a65.jpg"
-            name="DeviantScriptClassic" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptDark_zps72811168.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptDark_zps72811168.jpg"
-            name="DeviantScriptInverted" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Grunge_zps3da192e5.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Grunge_zps3da192e5.jpg"
-            name="Grunge" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-WhippedGoodness_zpsb1a02dcb.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-WhippedGoodness_zpsb1a02dcb.jpg"
-            name="WhippedGoodness" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Vintage2_zpsd5978810.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Vintage2_zpsd5978810.jpg"
-            name="Rustic" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Vintage_zps5cc1f275.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Vintage_zps5cc1f275.jpg"
-            name="Rustic2" />
 
         <wallpaper
             author="Wally"
@@ -155,13 +100,56 @@
             name="Bulbs" />
     </category>
 
-    <category name="More Papers" >
+
+    <category name="Annex1" >
 
         <wallpaper
-            author="Droyd"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
-            url="http://android.markjohnston.us/DL/LWP/Droyd-Wave1.png"
-            name="Wave1" />
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1-Blue_zps83d18fab.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1-Blue_zps83d18fab.jpg"
+            name="DeviantX1-Blue" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1_zpsafa5d810.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantX1_zpsafa5d810.jpg"
+            name="DeviantX1-Red" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScript_zps65fe9d6e.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScript_zps65fe9d6e.jpg"
+            name="DeviantScript" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptWhite_zpsc0ad6a65.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptWhite_zpsc0ad6a65.jpg"
+            name="DeviantScriptClassic" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptDark_zps72811168.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-DeviantScriptDark_zps72811168.jpg"
+            name="DeviantScriptInverted" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Grunge_zps3da192e5.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Grunge_zps3da192e5.jpg"
+            name="Grunge" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-WhippedGoodness_zpsb1a02dcb.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-WhippedGoodness_zpsb1a02dcb.jpg"
+            name="WhippedGoodness" />
+
+        <wallpaper
+            author="Annex1"
+            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Vintage2_zpsd5978810.jpg"
+            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Annex-Vintage2_zpsd5978810.jpg"
+            name="Rustic" />
     </category>
 
 </wallpapers>
