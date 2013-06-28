@@ -1,5 +1,5 @@
 
-package com.deviant.wallpapers;
+package com.illusion.wallpapers;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.deviant.wallpapers;
+package com.illusion.wallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;

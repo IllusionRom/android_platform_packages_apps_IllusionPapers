@@ -1,5 +1,5 @@
 
-package com.deviant.wallpapers;
+package com.illusion.wallpapers;
 
 public class Wallpaper {
 
