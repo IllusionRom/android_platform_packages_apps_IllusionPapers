@@ -57,9 +57,19 @@
 
         <wallpaper
             author="Annex1"
-            thumbUrl="http://img69.imageshack.us/img69/708/nhj.png"
-            url="http://img69.imageshack.us/img69/708/nhj.png"
+            thumbUrl="http://imageshack.us/a/img69/708/nhj.png"
+            url="http://imageshack.us/a/img69/708/nhj.png"
             name="Poly" />
+
+    </category>
+    
+    <category name="Misc" >
+
+        <wallpaper
+            author="Sid21"
+            thumbUrl="http://imageshack.us/a/img835/9855/ryuy.jpg"
+            url="http://imageshack.us/a/img835/9855/ryuy.jpg"
+            name="Illusion" />
 
     </category>
 
