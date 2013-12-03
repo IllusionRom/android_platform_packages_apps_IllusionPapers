@@ -8,6 +8,6 @@
     <string name="config_wallpaper_download_loc"></string>
 
     <!-- url to the wallpaper manifest -->
-    <string name="config_wallpaper_manifest_url">https://raw.github.com/IllusionProject/illusion_wallpapers/jb/assets/wallpaper_manifest.xml</string>
+    <string name="config_wallpaper_manifest_url">https://raw.github.com/IllusionRom/illusion_wallpapers/4.4/assets/wallpaper_manifest.xml</string>
 
 </resources>
