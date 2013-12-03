@@ -13,23 +13,31 @@
         date="<date added>" may be used for filtering later
         name="<wallpaper name">
     -->
-    <!--category name="Wally" >
+    
+    
+    <category name="Illusion" >
 
         <wallpaper
-            author="Wally"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DXCity_zps0381a893.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-DXCity_zps0381a893.jpg"
-            name="City" />
+            author="PartimusPrime"
+            thumbUrl="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper01.png"
+            url="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper01.png"
+            name="3D" />
+            
+        <wallpaper
+            author="PartimusPrime"
+            thumbUrl="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper03.png"
+            url="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper03.png"
+            name="DarkIll" />
 
         <wallpaper
-            author="Wally"
-            thumbUrl="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-City2_zps1d866bfb.jpg"
-            url="http://i837.photobucket.com/albums/zz299/ronaldramsayii/DeviantDevs-Papers/Wally-City2_zps1d866bfb.jpg"
-            name="City2" />
-
-    </category -->
-
-    <category name="Annex1" >
+            author="PartimusPrime"
+            thumbUrl="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper02.png"
+            url="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper02.png"
+            name="GlossIll" />
+        
+    </category>
+  
+    <category name="KeyLimePie" >
 
         <wallpaper
             author="Annex1"
@@ -49,34 +57,16 @@
             url="http://img690.imageshack.us/img690/1659/qn5.png"
             name="KeyLimePie3" />
 
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://img580.imageshack.us/img580/1850/9ypo.png"
-            url="http://img580.imageshack.us/img580/1850/9ypo.png"
-            name="MicroLeaves" />
+    </category>
+    
+    <category name="Others" >
 
         <wallpaper
             author="Annex1"
             thumbUrl="http://imageshack.us/a/img69/708/nhj.png"
             url="http://imageshack.us/a/img69/708/nhj.png"
             name="Poly" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://img547.imageshack.us/img547/6517/m3q.png"
-            url="http://img547.imageshack.us/img547/6517/m3q.png"
-            name="Rasta" />            
-
-    </category>
-    
-    <category name="Misc" >
-
-        <wallpaper
-            author="Sid21"
-            thumbUrl="http://imageshack.us/a/img835/9855/ryuy.jpg"
-            url="http://imageshack.us/a/img835/9855/ryuy.jpg"
-            name="Illusion" />
-
+            
     </category>
 
 </wallpapers>
