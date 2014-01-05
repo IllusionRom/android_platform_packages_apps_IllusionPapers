@@ -34,39 +34,25 @@
             thumbUrl="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper02.png"
             url="http://illusionroms.com/wp-content/uploads/2013/10/IllusionWallpaper02.png"
             name="GlossIll" />
-        
-    </category>
-  
-    <category name="KeyLimePie" >
 
         <wallpaper
-            author="Annex1"
-            thumbUrl="http://img812.imageshack.us/img812/5816/731r.jpg"
-            url="http://img812.imageshack.us/img812/5816/731r.jpg"
-            name="KeyLimePie" />
+            author="PartimusPrime"
+            thumbUrl="http://i.imgur.com/Nm0nSQq.png"
+            url="http://i.imgur.com/Nm0nSQq.png"
+            name="Mamor" />
 
         <wallpaper
-            author="Annex1"
-            thumbUrl="http://img62.imageshack.us/img62/6871/bjf.png"
-            url="http://img62.imageshack.us/img62/6871/bjf.png"
-            name="KeyLimePie2" />
+            author="PartimusPrime"
+            thumbUrl="http://i.imgur.com/n417DW5.png"
+            url="http://i.imgur.com/n417DW5.png"
+            name="INeon" />
 
         <wallpaper
-            author="Annex1"
-            thumbUrl="http://img690.imageshack.us/img690/1659/qn5.png"
-            url="http://img690.imageshack.us/img690/1659/qn5.png"
-            name="KeyLimePie3" />
+            author="PartimusPrime"
+            thumbUrl="http://i.imgur.com/IzYIIYe.png"
+            url="http://i.imgur.com/IzYIIYe.png"
+            name="IllusionText" />
 
-    </category>
-    
-    <category name="Others" >
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://imageshack.us/a/img69/708/nhj.png"
-            url="http://imageshack.us/a/img69/708/nhj.png"
-            name="Poly" />
-            
     </category>
 
 </wallpapers>
